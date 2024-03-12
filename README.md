@@ -1,4 +1,5 @@
 # Data Structures and Algorithms
+## Am trying to learn one of the following a day.
 
 ## Linear Data Structures
 - **Array**
