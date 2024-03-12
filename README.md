@@ -1,112 +1,113 @@
-#Data Structures and Algorithms
+# Data Structures and Algorithms
 
-##Linear Data Structures:
-###Array<br>
-###Linked List (Singly linked list, Doubly linked list, Circular linked list)<br>
-###Stack<br>
-###Queue (Simple Queue, Circular Queue, Priority Queue, Double-Ended Queue (Deque))<br>
+## Linear Data Structures
+- **Array**
+- **Linked List** (Singly linked list, Doubly linked list, Circular linked list)
+- **Stack**
+- **Queue** (Simple Queue, Circular Queue, Priority Queue, Double-Ended Queue (Deque))
 
-##Tree Data Structures:<br>
-###Binary Tree<br>
-###Binary Search Tree<br>
-###AVL Tree<br>
-###Red-Black Tree<br>
-###Segment Tree<br>
-###Fenwick Tree (Binary Indexed Tree)<br>
-###Heap (Binary Heap, Min Heap, Max Heap)<br>
-###Trie (Prefix Tree)<br>
-###Suffix Tree and Suffix Array<br>
-###B-Tree and B+ Tree<br>
+## Tree Data Structures
+- **Binary Tree**
+- **Binary Search Tree**
+- **AVL Tree**
+- **Red-Black Tree**
+- **Segment Tree**
+- **Fenwick Tree** (Binary Indexed Tree)
+- **Heap** (Binary Heap, Min Heap, Max Heap)
+- **Trie** (Prefix Tree)
+- **Suffix Tree and Suffix Array**
+- **B-Tree and B+ Tree**
 
-##Graph Data Structures:<br>
-###Graph (Directed, Undirected)<br>
-###Weighted Graph<br>
-###Adjacency Matrix<br>
-###Adjacency List<br>
+## Graph Data Structures
+- **Graph** (Directed, Undirected)
+- **Weighted Graph**
+- **Adjacency Matrix**
+- **Adjacency List**
 
-##Hash-based Data Structures:<br>
-###Hash Table/Hash Map<br>
-###Set<br>
+## Hash-based Data Structures
+- **Hash Table/Hash Map**
+- **Set**
 
-##Advanced and Miscellaneous:<br>
-###Disjoint Set (Union-Find)<br>
-###Bloom Filter<br>
-###Skip List<br>
-###Algorithms<br>
+## Advanced and Miscellaneous
+- **Disjoint Set** (Union-Find)
+- **Bloom Filter**
+- **Skip List**
 
-##Sorting Algorithms:<br>
-###Bubble Sort<br>
-###Insertion Sort<br>
-###Selection Sort<br>
-###Merge Sort<br>
-###Quick Sort<br>
-###Heap Sort<br>
-###Radix Sort<br>
-###Counting Sort<br>
-###Shell Sort<br>
+# Algorithms
 
-##Searching Algorithms:<br>
-###Linear Search<br>
-###Binary Search<br>
-###Depth-First Search (DFS)<br>
-###Breadth-First Search (BFS)<br>
+## Sorting Algorithms
+- **Bubble Sort**
+- **Insertion Sort**
+- **Selection Sort**
+- **Merge Sort**
+- **Quick Sort**
+- **Heap Sort**
+- **Radix Sort**
+- **Counting Sort**
+- **Shell Sort**
 
-##Graph Algorithms:<br>
-###Dijkstra's Algorithm<br>
-###Bellman-Ford Algorithm<br>
-###Floyd-Warshall Algorithm<br>
-###Kruskal's Algorithm<br>
-###Prim's Algorithm<br>
-###A* Search Algorithm<br>
-###Graph Coloring<br>
-###Cycle Detection (e.g., using Union-Find, DFS)<br>
+## Searching Algorithms
+- **Linear Search**
+- **Binary Search**
+- **Depth-First Search (DFS)**
+- **Breadth-First Search (BFS)**
 
-##Dynamic Programming:<br>
-###Fibonacci Sequence (Memoization, Tabulation)<br>
-###Longest Common Subsequence<br>
-###Longest Increasing Subsequence<br>
-###Knapsack Problem (0/1, Unbounded)<br>
-###Coin Change Problem<br>
-###Minimum Path Sum<br>
+## Graph Algorithms
+- **Dijkstra's Algorithm**
+- **Bellman-Ford Algorithm**
+- **Floyd-Warshall Algorithm**
+- **Kruskal's Algorithm**
+- **Prim's Algorithm**
+- **A* Search Algorithm**
+- **Graph Coloring**
+- **Cycle Detection** (e.g., using Union-Find, DFS)
 
-##Greedy Algorithms:<br>
-###Activity Selection<br>
-###Huffman Coding<br>
-###Fractional Knapsack<br>
+## Dynamic Programming
+- **Fibonacci Sequence** (Memoization, Tabulation)
+- **Longest Common Subsequence**
+- **Longest Increasing Subsequence**
+- **Knapsack Problem** (0/1, Unbounded)
+- **Coin Change Problem**
+- **Minimum Path Sum**
 
-##Divide and Conquer:<br>
-###QuickSort<br>
-###MergeSort<br>
-###Binary Search<br>
-###Finding the Closest Pair of Points<br>
+## Greedy Algorithms
+- **Activity Selection**
+- **Huffman Coding**
+- **Fractional Knapsack**
 
-##Backtracking:<br>
-###N-Queens Problem<br>
-###Sudoku Solver<br>
-###Permutations and Combinations<br>
-###Subset Sum Problem<br>
+## Divide and Conquer
+- **QuickSort**
+- **MergeSort**
+- **Binary Search**
+- **Finding the Closest Pair of Points**
 
-##Bit Manipulation:<br>
-###Basic Operations (AND, OR, XOR, NOT)<br>
-###Bit Masking<br>
-###Hamming Weight (Count set bits)<br>
+## Backtracking
+- **N-Queens Problem**
+- **Sudoku Solver**
+- **Permutations and Combinations**
+- **Subset Sum Problem**
 
-##String Algorithms:<br>
-###String Matching (Naive, Rabin-Karp, KMP Algorithm)<br>
-###Palindrome Check<br>
-###Longest Palindromic Substring<br>
-###Trie Operations (Insert, Search, StartsWith)<br>
+## Bit Manipulation
+- **Basic Operations** (AND, OR, XOR, NOT)
+- **Bit Masking**
+- **Hamming Weight** (Count set bits)
 
-##Mathematical and Geometric Algorithms:<br>
-###Sieve of Eratosthenes (Prime Numbers)<br>
-###Euclidean Algorithm (GCD)<br>
-###Fast Exponentiation<br>
-###Convex Hull (e.g., Graham Scan)<br>
+## String Algorithms
+- **String Matching** (Naive, Rabin-Karp, KMP Algorithm)
+- **Palindrome Check**
+- **Longest Palindromic Substring**
+- **Trie Operations** (Insert, Search, StartsWith)
 
-##Machine Learning Algorithms (A broad and distinct category, but worth mentioning):<br>
-###Linear Regression<br>
-###Logistic Regression<br>
-###Decision Trees<br>
-###K-Means Clustering<br>
-###Neural Networks<br>
-###Support Vector Machines<br>
+## Mathematical and Geometric Algorithms
+- **Sieve of Eratosthenes** (Prime Numbers)
+- **Euclidean Algorithm** (GCD)
+- **Fast Exponentiation**
+- **Convex Hull** (e.g., Graham Scan)
+
+## Machine Learning Algorithms (A broad and distinct category, but worth mentioning)
+- **Linear Regression**
+- **Logistic Regression**
+- **Decision Trees**
+- **K-Means Clustering**
+- **Neural Networks**
+- **Support Vector Machines**
